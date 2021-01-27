@@ -150,3 +150,33 @@ date
 sudo su
 man cp pr
 man -m
+cd /tmp
+ls
+ip a
+uname
+hosname
+hostname
+date
+sudo su
+cd /tmp
+ip a
+uname
+hostname
+date
+sudo su
+clear
+cd /tmp
+ip a
+uname
+hostname
+date
+clear
+sudo su
+clear
+sudo su
+cd /tmp
+uname
+ip a
+hostname
+clear
+sudo su
